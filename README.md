@@ -21,5 +21,6 @@ Outcome: Class variable (0 or 1)
 
 # Result:
 The Accuracy of the Machine Learning Model using Support Vector Machine is
+
 Accuracy of Training Data: 78.6%
 Accuracy of Testing Data: 77.2%
