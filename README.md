@@ -5,5 +5,5 @@ Diabetes is a serious metabolic condition where elevated blood sugar levels pers
 The dataset for this analysis comes from the National Institute of Diabetes and Digestive and Kidney Diseases, and its goal is to predict diabetes in patients using various clinical factors. The data comprises diagnostic measurements like insulin levels, glucose concentration, and BMI. A key characteristic of the dataset is its focus on a specific demographic group: female patients of Pima Indian descent aged 21 or older. This dataset serves as a vital resource for developing machine learning models aimed at accurate diabetes prediction and early detection.
 
 # Objective:
-requrire "Obejctive"
+require "Obejctive"
 The objective is to develop a Support Vector Machine (SVM) model to accurately predict diabetes in female Pima Indian patients based on key diagnostic measurements, aiding in early detection and management.
